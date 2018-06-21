@@ -7,4 +7,3 @@ class FizzBuzzTest(unittest.TestCase):
 
 
 unittest.main()
-
